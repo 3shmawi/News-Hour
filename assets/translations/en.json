@@ -1,8 +1,7 @@
 {
-    "Kader": "Kader",
+    
     "home": "Home",
     "videos": "Videos",
-    "upload": "Upload",
     "categories" : "Categories",
     "profile": "Profile",
     
@@ -89,9 +88,8 @@
     "no sign in title" : "Sign in first to access this feature",
     "no sign in subtitle" : "You haven't signed in yet. Please sign in to unlock this feature",
 
-    "register": "Register",
-
-
+    
+    
     "comments" : "Comments",
     "write a comment" : "Write A Comment", 
 
@@ -154,68 +152,6 @@
     "delete-user-data": "Delete My Data & Account",
     "account-delete-title": "Do you really want to delete your data?",
     "account-delete-subtitle": "Your account information like profile data, bookmarks, etc will be erased from the app database and You will have to sign up again in the app to continue.",
-    "account-delete-confirm": "Yes, Delete My Account",
+    "account-delete-confirm": "Yes, Delete My Account"
 
-
-    "Value is empty": "Value is empty",
-
-    "limited sets": "Limited Sets",
-    "enter title":"Enter Title",
-    "title":"Title",
-    "Enter Your Name": "Enter Your Name",
-    "Creation By Name": "Creation By Name",
-    "Enter Organized By": "Enter Organized By",
-    "Organized By": "Organized By",
-    "Enter Course Image Url": "Enter Course Image Url",
-    "Course Image Url": "Course Image Url",
-    "Next": "Next",
-    "Course days": "Course days",
-    "Days": "Days",
-    "Course hours": "Course hours",
-    "Hours": "Hours",
-    "Enter beginning date": "Enter beginning date",
-    "Beginning date": "Beginning date",
-    "Enter ending date": "Enter ending date",
-    "Ending date": "Ending date",
-    "Available From Date": "Available From Date",
-    "From": "From",
-    "To": "To",
-    "Available To Date": "Available To Date",
-    "Registration Link (optional)": "Registration Link (optional)",
-    "Registration Link": "Registration Link",
-    "Enter Description (optional)": "Enter Description (optional)",
-    "Description": "Description",
-    "Enter Sets Count": "Enter Sets Count",
-    "Sets Count (optional)": "Sets Count (optional)",
-    "Enter Accredited Entities": "Enter Accredited Entities",
-    "Accredited Entities (optional)": "Accredited Entities (optional)",
-    "Enter whatsapp number": "Enter whatsapp number",
-    "Whatsapp number (optional)": "Whatsapp number (optional)",
-    "Enter telegram url": "Enter telegram url",
-    "Telegram Url (optional)": "Telegram Url (optional)",
-    "Enter Website Url": "Enter Website Url",
-    "Website Url (optional)": "Website Url (optional)",
-    "Enter Email Address": "Enter Email Address",
-    "Email Address (optional)": "Email Address (optional)",
-    "Enter Phone Number": "Enter Phone Number",
-    "Phone number (optional)": "Phone number (optional)",
-    "Publish Now": "Publish Now",
-    "register round": "Register round",
-
-    "Enter Current Position": "Enter Current Position",
-    "Current Position": "Current Position",
-    "Enter Needed Position": "Enter Needed Position",
-    "Needed Position": "Needed Position",
-    "Enter Search For": "Enter Search For",
-    "Search For": "Search For",
-    "Enter Organization Name": "Enter Organization Name",
-    "Organization Name": "Organization Name",
-    "Enter Jop Address": "Enter Jop Address",
-    "Jop Address": "Jop Address",
-    "Enter Job City": "Enter Jop City",
-    "Job City": "Job City",
-    "Enter Job Type": "Enter Job Type",
-    "Job Type": "Job Type",
-    "has offer": "Has Offer",
-    "med job": "Medical Job"
 }
